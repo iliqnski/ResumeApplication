@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+  <resume>
+    <personalInformation>
+      <fullName>Iliyan Venelinov Hristov</fullName>
+      <address>3011 Str. 9,1324 Sofia, Bulgaria</address>
+      <phone>+359 889 585054</phone>
+      <email>iliqnacademy@hotmail.com</email>
+      <sex>Male</sex>
+      <birthDate>19-May-1984</birthDate>
+      <nationality>Bulgarian</nationality>
+      <preferedJob>.NET Developer</preferedJob>
+    </personalInformation>
+    <workPlaces>
+      <workPlace>
+        <startDate>September 2012</startDate>
+        <endDate>October 2013</endDate>
+        <occupation>Student</occupation>
+        <employerName>Telerik Software Academy</employerName>
+        <location>Sofia</location>
+        <responsibilities>C#, JavaScript, HTML5, CSS, Slice and dice, Photoshop, Databases, Web Services, XAML, Windows 8 Store applications with JavaScript, Windows 8 Store applications with XAML, ASP.NET Web Forms, MVC, Mobile applications</responsibilities>
+        <sector>Software Engineering</sector>
+      </workPlace>
+      <workPlace>
+        <startDate>November 2009</startDate>
+        <endDate>October 2012</endDate>
+        <occupation>Project Engineer</occupation>
+        <employerName>Protech JSC</employerName>
+        <location>Sofia</location>
+        <responsibilities>Installation and service of fire alarm systems, CCTV, access control and intruder alarm systems</responsibilities>
+        <sector>Building Automation</sector>
+      </workPlace>
+      <workPlace>
+        <startDate>May 2008</startDate>
+        <endDate>September 2009</endDate>
+        <occupation>Technician</occupation>
+        <employerName>Bat Security</employerName>
+        <location>Ruse</location>
+        <responsibilities>Installation and service of intruder alarm systems</responsibilities>
+        <sector>Security services</sector>
+      </workPlace>
+      <workPlace>
+        <startDate>October 2006</startDate>
+        <endDate>March 2008</endDate>
+        <occupation>Technician</occupation>
+        <employerName>SOT Ruse</employerName>
+        <location>Ruse</location>
+        <responsibilities>Installation and service of intruder alarm systems</responsibilities>
+        <sector>Security services</sector>
+      </workPlace>
+      <workPlace>
+        <startDate>June 2005</startDate>
+        <endDate>June 2006</endDate>
+        <occupation>Student's program for working abroad</occupation>
+        <employerName>St Merryn Meat Ltd</employerName>
+        <location>United Kingdom, St Austell</location>
+        <responsibilities>Work in a meat factory</responsibilities>
+        <sector>Food industry</sector>
+      </workPlace>
+    </workPlaces>
+    <educationalCourses>
+      <educationalCourse>
+        <startDate>October 2002</startDate>
+        <endDate>September 2007</endDate>
+        <qualification>Bachelor</qualification>
+        <organization>University Of Ruse "Angel Kunchev"</organization>
+        <speciality>Communication engineering and technology</speciality>
+      </educationalCourse>
+      <educationalCourse>
+        <startDate>September 1997</startDate>
+        <endDate>May 2002</endDate>
+        <qualification>Secondary education</qualification>
+        <organization>School of electronic engineering "Apostol Arnaudov", Ruse</organization>
+        <speciality>Computing</speciality>
+      </educationalCourse>
+    </educationalCourses>
+    <languages>
+      <language>
+        <name>Bulgarian</name>
+      </language>
+      <language>
+        <name>English</name>
+      </language>
+    </languages>
+    <personalSkills>
+      <personalSkill>
+        <name>Excellent written and verbal communication skills</name>
+      </personalSkill>
+      <personalSkill>
+        <name>Good team player, enjoys sharing knowledge and encouraging development of others to achieve specific team goals</name>
+      </personalSkill>
+      <personalSkill>
+        <name>Good command of Microsoft Office tools</name>
+      </personalSkill>
+      <personalSkill>
+        <name>Driving licence category B</name>
+      </personalSkill>
+    </personalSkills>
+    <projects>
+      <project>
+        <name>https://github.com/iliqnski/FindNearestPlaces</name>
+      </project>
+      <project>
+        <name>https://github.com/iliqnski/BGNewsService</name>
+      </project>
+    </projects>
+  </resume>
+</catalog>
